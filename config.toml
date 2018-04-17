@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://flowsea.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Oscar Cheng"
+theme = "hyde"
+
+[params]
+  description = "这里是Oscar Cheng的个人博客"
+  themeColor = "theme-base-08"
+  layoutReverse = true
