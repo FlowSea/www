@@ -7,3 +7,6 @@
 [submodule "themes/hugo-fresh"]
 	path = themes/hugo-fresh
 	url = https://github.com/lucperkins/hugo-fresh.git
+[submodule "themes/landing-page-hugo"]
+	path = themes/landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
