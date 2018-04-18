@@ -2,6 +2,7 @@ baseURL = "http://192.168.196.11/"
 relativeurls = true
 languageCode = "en-us"
 title = "Flowsea WebSite"
+hasCJKLanguage = true
 theme = "minimal"
 googleAnalytics = ""
 
