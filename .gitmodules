@@ -10,3 +10,6 @@
 [submodule "themes/landing-page-hugo"]
 	path = themes/landing-page-hugo
 	url = https://github.com/crakjie/landing-page-hugo.git
+[submodule "themes/agency"]
+	path = themes/agency
+	url = https://github.com/digitalcraftsman/hugo-agency-theme
