@@ -1,5 +1,6 @@
-baseURL = "http://10.1.113.11/"
-relativeurls = true
+#baseURL = "http://10.1.113.11/"
+relativeURLs = true
+uglyurls = true
 languageCode = "en-us"
 title = "Flowsea Test WebSite"
 hasCJKLanguage = true
