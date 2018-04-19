@@ -1,4 +1,4 @@
-baseURL = "https://www-test.flowsea.com/"
+baseURL = "https://192.168.196.11/"
 relativeurls = true
 languageCode = "en-us"
 title = "Flowsea Test WebSite"
