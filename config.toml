@@ -1,7 +1,7 @@
-baseURL = "http://192.168.196.11/"
+baseURL = "https://www-test.flowsea.com/"
 relativeurls = true
 languageCode = "en-us"
-title = "Flowsea WebSite"
+title = "Flowsea Test WebSite"
 hasCJKLanguage = true
 theme = "ananke"
 
